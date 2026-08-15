@@ -1,4 +1,4 @@
-# 📄 Suren A. Jewels – Resume
+# 📄 SurenA Jewels – Resume
 
 This repository contains my ATS-optimized resume highlighting achievements across cloud infrastructure, secure systems, automation, and federal support.
 
